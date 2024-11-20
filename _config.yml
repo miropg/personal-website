@@ -1,0 +1,14 @@
+permalink: pretty
+
+title: Miro Garcia - Computer Science Portfolio
+
+logo: 
+
+theme: jekyll-theme-minimal
+
+header_pages:
+  - index.md
+  - Projects.md
+  - Resume.md
+
+baseurl: "/portfolio"
