@@ -11,4 +11,4 @@ header_pages:
   - Projects.md
   - Resume.md
 
-baseurl: "/portfolio"
+baseurl: "/personal-website"
