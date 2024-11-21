@@ -20,4 +20,5 @@ I have an internship with them summer of 2024 where I will be assisting Joe and 
 
 Wesbites:
 https://github.com/miropg 
+
 https://www.linkedin.com/in/mirogarcia/ 
