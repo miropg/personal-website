@@ -8,4 +8,4 @@ nav_order: 1
 
 Welcome to my computer science portfolio. Here you can find information about my projects, resume, and more.
 
-![Profile Photo]({{ site.baseurl }}/assets/images/IMG_1532,updated.jpg)
+![Profile Photo]({{ site.baseurl }}/assets/images/IMG_1532.jpg)
